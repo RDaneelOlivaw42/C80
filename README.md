@@ -1,6 +1,5 @@
-# C79
+# C80
 
-Book Santa, Stage 3
+Book Santa, Stage 4
 
-Added switch navigator and AppTabNavigator. 
-Added and designed BookRequestScreen.js and BookDonateScreen.js
+Added DrawerNavigator and Log-out functionality.
